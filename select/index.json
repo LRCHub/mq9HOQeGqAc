@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Flap & Clap",
+  "base_artist": "棗いつき",
+  "createdAt": "2025-12-03T05:41:26.859833Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FLIP FLAP FLIP FLAP (TV SIZE)",
+      "artist": "TO-MAS feat. Chima",
+      "has_synced": true,
+      "path": "select/01_FLIP_FLAP_FLIP_FLAP_(TV_SIZE)_TO-MAS_feat._Chima.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FLIP FLAP FLIP FLAP",
+      "artist": "TO-MAS feat. Chima",
+      "has_synced": true,
+      "path": "select/02_FLIP_FLAP_FLIP_FLAP_TO-MAS_feat._Chima.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FLAP LIPS",
+      "artist": "City Morgue feat. ZillaKami",
+      "has_synced": true,
+      "path": "select/03_FLAP_LIPS_City_Morgue_feat._ZillaKami.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "FLAP LIPS",
+      "artist": "City Morgue",
+      "has_synced": true,
+      "path": "select/04_FLAP_LIPS_City_Morgue.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Flip Flap Flip Flap feat. Chima",
+      "artist": "TO-MAS",
+      "has_synced": true,
+      "path": "select/05_Flip_Flap_Flip_Flap_feat._Chima_TO-MAS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "FLAP LIPS",
+      "artist": "City Morgue",
+      "has_synced": true,
+      "path": "select/06_FLAP_LIPS_City_Morgue.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "FLAP LIPS",
+      "artist": "ZillaKami & Sosmula",
+      "has_synced": true,
+      "path": "select/07_FLAP_LIPS_ZillaKami_&_Sosmula.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Flap Flap",
+      "artist": "De Jeugd van Tegenwoordig",
+      "has_synced": true,
+      "path": "select/08_Flap_Flap_De_Jeugd_van_Tegenwoordig.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Flap Your Wings",
+      "artist": "Nelly",
+      "has_synced": false,
+      "path": "select/09_Flap_Your_Wings_Nelly.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Flap Your Wings (Album Version / Explicit)",
+      "artist": "Nelly",
+      "has_synced": false,
+      "path": "select/10_Flap_Your_Wings_(Album_Version___Explicit)_Nelly.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Flap Your Wings",
+      "artist": "Nelly",
+      "has_synced": true,
+      "path": "select/11_Flap_Your_Wings_Nelly.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Flap Your Wings (Instrumental)",
+      "artist": "Nelly",
+      "has_synced": false,
+      "path": "select/12_Flap_Your_Wings_(Instrumental)_Nelly.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Flap Off You Beak",
+      "artist": "Cardiacs",
+      "has_synced": false,
+      "path": "select/13_Flap_Off_You_Beak_Cardiacs.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Flap Jacks",
+      "artist": "Dwele",
+      "has_synced": false,
+      "path": "select/14_Flap_Jacks_Dwele.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Big flap",
+      "artist": "Suprême NTM",
+      "has_synced": true,
+      "path": "select/15_Big_flap_Suprême_NTM.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "FLAP YOUR WINGS",
+      "artist": "J SOUL BROTHERS III",
+      "has_synced": true,
+      "path": "select/16_FLAP_YOUR_WINGS_J_SOUL_BROTHERS_III.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Flap & Clap",
+      "artist": "棗いつき",
+      "has_synced": false,
+      "path": "select/pl_01_Flap_&_Clap_棗いつき.txt"
+    }
+  ]
+}
